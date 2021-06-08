@@ -1,0 +1,26 @@
+.score {
+    display: inline-block;
+}
+
+.score li {
+    width: 120;
+    height: 50;
+    float: left;
+}
+
+.score ul {
+    height: 50;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0);
+    margin-left: 8%;
+}
+
+.Star-fill {
+    color: #12A4AF;
+}
+
+.Star {
+    color: #73797A;
+}
